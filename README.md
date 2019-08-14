@@ -1,5 +1,5 @@
 # Spacewars-Game
-A simple two player Spacewars Game written in Processing
+A two player Spacewars Game written in Processing.
 
 Spacewars 2Player Game:
 ![Mask](../master/git-readme/Screen01.png)
