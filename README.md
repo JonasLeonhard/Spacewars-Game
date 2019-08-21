@@ -5,8 +5,8 @@ Spacewars 2Player Game:
 ![Mask](../master/git-readme/Screen01.png)
 -2 Player Spacewars Game. 
 
-Creating and Rendering 3D Computergraphics:
+Creating and rendering 3D computergraphics:
 ![Mask](../master/git-readme/Screen02.png)
--Konus
+-Conus
 ![Mask](../master/git-readme/Screen03.png)
--Zylinder
+-Cylinder
